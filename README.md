@@ -1,2 +1,2 @@
 # cnn-imageClassification
-Cnn模型进行图片分类，当前训练测试使用的数据集为cifar10
+Cnn模型进行图片分类，当前训练测试使用的数据集为cifar10,框架为pytorch
